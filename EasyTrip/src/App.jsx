@@ -17,7 +17,7 @@ export default function App() {
   };
 
   const getRate = async () => {
-    const res = await fetch(`http://localhost:5000/api/rate?base=${baseCurrency}&target=${targetCurrency}`);
+    const res = await fetch(`https://easytrip-backend.onrender.com/api/rate?base=USD&target=EUR`);
     const data = await res.json();
     setExchangeRate(data.rate);
     setConverted((data.rate * amount).toFixed(2));
