@@ -17,7 +17,7 @@ export default function App() {
   };
 
   const getRate = async () => {
-    const res = await fetch(`https://easytrip-zf3r.onrender.com`);
+    const res = await fetch(`http://easytrip-zf3r.onrender.com/api/rate?base=${baseCurrency}&target=${targetCurrency}`);
     const data = await res.json();
     setExchangeRate(data.rate);
     setConverted((data.rate * amount).toFixed(2));
