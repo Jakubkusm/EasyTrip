@@ -1,0 +1,36 @@
+Sprawdzic czy jest to jakas opatentowana nazwa?
+Jak stworzyć i programować kreacje i strony za pomocą sztucznej inteligencji?
+Uzywanie dluszych i bardziej skomplikowanych sekwencji slow do stworzenia odpowiednich danych za pomocą sztucznej inteligencji.
+Jak programować strony za pomocą AI?
+
+NAZWA:
+
+EasyTrip
+
+Motto - Make your travels even easier with our site that combines every information needed for your next adventure.
+
+The idea of EasyTrip was to easier someone's travels. As a eager traveller I know that it is really hard to organise trips on your own or that travel agencies do not satisfy your dreams while choosing your next adventure.
+On EasyTrip you can find everything that is needed for your next travel. Everything is placed on one site, so you do not have to worry about searching every single thing throughout the whole internet.
+
+Co stworzyć na stronie?
+
+- latwe wyszukiwanie za pomocą słów lub zdań danych miejsc, potrzebnych informacji itp. itd.
+- linki przekierowywujące do np. danej grupy dostępnych obiektow do wynajęcia na dużych stronach bookingowych, typu, booking.com
+- linki przekierowywujace do rezererwacji lotów
+- linki przkierowywujace do stron z atrakcjami
+- linki przekierowywujace do wynajmu samochodow
+- wymagania wizowe i co trzeba zrobic
+- dlugosc podróży
+- jak zabiezpieczyc się na podróż pod względem zdrowotnym, infomacje zdrowotne
+- najbardziej potrzebne rzeczy a także tipy podróżnicze odnośnie czego np. zabrać
+- dane walutowe
+- czy trzeba wykupować internet i karty sim, porownywarka w danym kraju
+- mapy gogle na naszej stronie 
+- pomysły podroznicze
+
+Jak zarobić?
+
+- wspolpraca z dużymi firmami
+- WHOP
+- start up?
+- reklamy 
